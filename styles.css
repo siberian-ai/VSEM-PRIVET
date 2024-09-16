@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+#game {
+    text-align: center;
+}
+
+#coin {
+    width: 100px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 24px;
+    margin-top: 20px;
+}
